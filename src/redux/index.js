@@ -1,0 +1,1 @@
+export { fetchpostsRequest, fetchpostsSuccess, fetchpostsFailure, fetchposts } from './Posts/Postaction'
